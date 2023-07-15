@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+font-size: 40px;
+}
+
+
+.text-highlite{
+    color: #FF7329;
+}
+
+.first-half{
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+}
+.second-half{
+    width: 40%;
+    padding: 2%;
+    float: right;
+}
+.second-half img{
+    width:60%;
+}
+
+.first-half img{
+    width:60%;
+}
+.banner-text{
+    margin-bottom: 50px;
+}
+
+.hireme{
+    text-decoration: none;
+    background-color: #FF7329;
+    color: #fff;
+    padding: 13px 30px;
+    border-radius: 5px;
+    
+}
+.hero-banner-image{
+    background-image: url(images/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.about{
+    height: 600px;
+}
+.section-title{
+  margin-left: 5%;
+}
+.experience{
+ height: 400px;
+ margin-bottom: 50px;
+ padding: 50px 50px;
+}
+
+.exp1{
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    border: 2px solid #FF7329;
+    float: left;
+    border-radius: 10px;
+}
+.exp2{
+    width: 40%;
+    margin-right: 5%;
+    padding: 2%;
+    border: 2px solid #FF7329;
+    border-radius: 10px;
+    float: right;
+}
+footer{
+    height: 50px;
+    padding: 50px;
+    text-align: center;
+}
